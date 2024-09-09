@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
     background-color: #92bdef;
@@ -36,40 +35,3 @@ padding: 20px;
 ul{
  list-style-type: square;
 }
-=======
-body {
-    font-family: Arial, sans-serif;
-    background-color: #92bdef;
-    line-height: 1.5;
-}
-.container{
-width: 80%;
-    margin: auto;
-    overflow: hidden;
-}
-.main-info {
-    background: #92bdef;
-    color: #fff;
-    padding: 20px;
-}
-.main-info h1 {
-    margin: 0;
-}
-.hobbies, .introduction, .course, .job, .fun-fact{
-    background: #92bdef;
-    padding: 15px;
-    margin-bottom: 10px;
-color: #fff; 
-}
-.profile-img {
-display: block; 
-margin: auto; 
-    width: 300px; 
-height: 450px; 
-padding: 20px; 
-}
-
-ul{
- list-style-type: square;
-}
->>>>>>> c72ab2e669408cfcfa83a99b6167b361fb0452b8
