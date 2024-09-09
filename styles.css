@@ -14,12 +14,13 @@ body {
     background: #92bdef;
     color: #fff;
     padding: 20px;
+    text-align: center;
 }
 .main-info h1 {
     margin: 0;
 }
 .hobbies, .introduction, .course, .job, .fun-fact{
-    background: #92bdef;
+    background: rgb(196, 162, 117);
     padding: 15px;
     margin-bottom: 10px;
     color: #fff; 
